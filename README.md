@@ -8,9 +8,9 @@ I build reliable mobile apps with Flutter, React Native, and Native Android turn
 
 **Software Engineer at Pathao · Bangladesh**
 
-<a href="https://www.linkedin.com/in/sajidrec/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn    sajidrec" /></a>
-<a href="mailto:sajidrec@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sajid" /></a>
-<a href="#selected-work"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0F172A?style=for-the-badge&logo=android&logoColor=22D3EE" alt="Explore my work" /></a>
+<a href="https://www.linkedin.com/in/sajidrec/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn    sajidrec" target="_blank" /></a>
+<a href="mailto:sajidrec@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sajid" target="_blank" /></a>
+<a href="#selected-work"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0F172A?style=for-the-badge&logo=android&logoColor=22D3EE" alt="Explore my work" target="_blank"/></a>
 
 <br />
 <br />
@@ -28,7 +28,7 @@ I build reliable mobile apps with Flutter, React Native, and Native Android turn
 
 I'm **Sajid**, a software engineer working across **Flutter, React Native, and native Android with Kotlin/XML**. At Pathao, I contribute to production mobile apps that support everyday logistics and restaurant operations.
 
-I enjoy turning complex workflows into clear interfaces  and working through the API integration, state management, notifications, and debugging needed to make them reliable.
+I enjoy turning complex workflows into clear interfaces and working through the API integration, state management, notifications, and debugging needed to make them reliable.
 
 My foundation is in competitive programming: **1,500+ problems solved** across Codeforces, LeetCode, and CodeChef, with participation in the **ICPC Asia Dhaka Regional**.
 
@@ -43,29 +43,31 @@ My foundation is in competitive programming: **1,500+ problems solved** across C
 ## Selected work
 
 ### 01 / Pathao Resto Lite
+
 **Restaurant operations · Flutter**
 
 Contributed to a restaurant POS app, working on order handover, connectivity handling, lifecycle refresh, notifications, and receipt printing. Also worked on token refresh concurrency and retry handling.
 
 `Flutter` `Dart` `Riverpod` `Dio` `Firebase` `Sunmi printing`
 
-
-[View on Google Play ↗](https://play.google.com/store/apps/details?id=com.pathao.resto)
+<a href="https://play.google.com/store/apps/details?id=com.pathao.resto" target="_blank">View on Google Play ↗</a>
 
 ---
 
 ### 02 / Pathao Agent
+
 **Delivery & pickup workflows · React Native**
 
 Contributed to lot acceptance, on-hold flows, delivery targets, OTP improvements, notice board features, and the force update module. My work also includes the earnings interface with monthly, weekly, and daily views.
 
 `React Native` `JavaScript` `Redux` `REST APIs` `Android`
 
-[View on Google Play ↗](https://play.google.com/store/apps/details?id=com.pathao.agent)
+<a href="https://play.google.com/store/apps/details?id=com.pathao.agent" target="_blank">View on Google Play ↗</a>
 
 ---
 
 ### 03 / Pathao Sort
+
 **Sorting operations · Native Android**
 
 Implemented trip search by ID and worked on trip details, received counts, and assignment dialogs to improve operational clarity.
@@ -76,14 +78,14 @@ Implemented trip search by ID and worked on trip details, received counts, and a
 
 ## My toolkit
 
-| Area | Technologies |
-| :--- | :--- |
-| **Mobile** | Flutter · React Native · Android SDK · Kotlin/XML |
-| **Languages** | Dart · Kotlin · JavaScript · C++ · Java · C |
-| **Architecture & state** | Clean Architecture · MVVM · Riverpod · Redux |
-| **APIs & data** | REST · Dio · Retrofit · Firebase · Hive |
-| **Product features** | Push notifications · OTP flows · Thermal printing · API integration |
-| **Development** | Git · Android Studio · VS Code · ADB · Crashlytics |
+| Area                     | Technologies                                                        |
+| :----------------------- | :------------------------------------------------------------------ |
+| **Mobile**               | Flutter · React Native · Android SDK · Kotlin/XML                   |
+| **Languages**            | Dart · Kotlin · JavaScript · C++ · Java · C                         |
+| **Architecture & state** | Clean Architecture · MVVM · Riverpod · Redux                        |
+| **APIs & data**          | REST · Dio · Retrofit · Firebase · Hive                             |
+| **Product features**     | Push notifications · OTP flows · Thermal printing · API integration |
+| **Development**          | Git · Android Studio · VS Code · ADB · Crashlytics                  |
 
 ## Competitive programming
 
@@ -91,16 +93,16 @@ From algorithmic challenges to production code, problem solving is at the heart 
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sajidrec/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" /></a>
-<a href="https://codeforces.com/profile/sajidrec"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" /></a>
-<a href="https://www.codechef.com/users/sajidrec"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" /></a>
-<a href="https://toph.co/u/sajidrec"><img src="https://img.shields.io/badge/Toph-16A34A?style=for-the-badge" alt="Toph profile" /></a>
+<a href="https://leetcode.com/u/sajidrec/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" target="_blank"/></a>
+<a href="https://codeforces.com/profile/sajidrec" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" target="_blank"/></a>
+<a href="https://www.codechef.com/users/sajidrec" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" /></a>
+<a href="https://toph.co/u/sajidrec" target="_blank"><img src="https://img.shields.io/badge/Toph-16A34A?style=for-the-badge" alt="Toph profile" /></a>
 
 <br />
 
-<a href="https://www.hackerrank.com/profile/sajidrec"><img src="https://img.shields.io/badge/HackerRank-00A86B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" /></a>
-<a href="https://judge.beecrowd.com/en/profile/392980"><img src="https://img.shields.io/badge/beecrowd-8B5CF6?style=for-the-badge" alt="beecrowd profile" /></a>
-<a href="https://icpc.global/ICPCID/8EJIJGFDCFI3"><img src="https://img.shields.io/badge/ICPC-0F172A?style=for-the-badge" alt="ICPC profile" /></a>
+<a href="https://www.hackerrank.com/profile/sajidrec"><img src="https://img.shields.io/badge/HackerRank-00A86B?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" target="_blank"/></a>
+<a href="https://judge.beecrowd.com/en/profile/392980" target="_blank"><img src="https://img.shields.io/badge/beecrowd-8B5CF6?style=for-the-badge" alt="beecrowd profile" target="_blank"/></a>
+<a href="https://icpc.global/ICPCID/8EJIJGFDCFI3" target="_blank"><img src="https://img.shields.io/badge/ICPC-0F172A?style=for-the-badge" alt="ICPC profile" /></a>
 
 </div>
 
@@ -132,7 +134,7 @@ From algorithmic challenges to production code, problem solving is at the heart 
 
 I'm happy to connect about mobile development, product engineering, and interesting technical problems.
 
-**[LinkedIn](https://www.linkedin.com/in/sajidrec/) · [sajidrec@gmail.com](mailto:sajidrec@gmail.com)**
+**<a href="https://www.linkedin.com/in/sajidrec/" target="_blank"> LinkedIn </a> · [sajidrec@gmail.com](mailto:sajidrec@gmail.com)**
 
 <br />
 
