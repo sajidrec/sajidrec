@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=220&section=header&text=MD.%20SAJID%20HOSSAIN&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20Applications&descSize=18&descAlignY=58" alt="Md. Sajid Hossain — Software Engineer, Mobile Applications" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=220&section=header&text=MD.%20SAJID%20HOSSAIN&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20Applications&descSize=18&descAlignY=58" alt="Md. Sajid Hossain    Software Engineer, Mobile Applications" />
 
 ### Thoughtful interfaces. Reliable workflows. Apps that ship.
 
-I build mobile experiences for restaurant partners, courier agents, and sorting operations.
+I build reliable mobile apps with Flutter, React Native, and Native Android turning complex requirements into intuitive user experiences.
 
 **Software Engineer at Pathao · Bangladesh**
 
-<a href="https://www.linkedin.com/in/sajidrec/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn — sajidrec" /></a>
+<a href="https://www.linkedin.com/in/sajidrec/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge" alt="LinkedIn    sajidrec" /></a>
 <a href="mailto:sajidrec@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sajid" /></a>
 <a href="#selected-work"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0F172A?style=for-the-badge&logo=android&logoColor=22D3EE" alt="Explore my work" /></a>
 
@@ -28,7 +28,7 @@ I build mobile experiences for restaurant partners, courier agents, and sorting 
 
 I'm **Sajid**, a software engineer working across **Flutter, React Native, and native Android with Kotlin/XML**. At Pathao, I contribute to production mobile apps that support everyday logistics and restaurant operations.
 
-I enjoy turning complex workflows into clear interfaces—and working through the API integration, state management, notifications, and debugging needed to make them reliable.
+I enjoy turning complex workflows into clear interfaces  and working through the API integration, state management, notifications, and debugging needed to make them reliable.
 
 My foundation is in competitive programming: **1,500+ problems solved** across Codeforces, LeetCode, and CodeChef, with participation in the **ICPC Asia Dhaka Regional**.
 
@@ -48,6 +48,9 @@ My foundation is in competitive programming: **1,500+ problems solved** across C
 Contributed to a restaurant POS app, working on order handover, connectivity handling, lifecycle refresh, notifications, and receipt printing. Also worked on token refresh concurrency and retry handling.
 
 `Flutter` `Dart` `Riverpod` `Dio` `Firebase` `Sunmi printing`
+
+
+[View on Google Play ↗](https://play.google.com/store/apps/details?id=com.pathao.resto)
 
 ---
 
@@ -116,8 +119,8 @@ From algorithmic challenges to production code, problem solving is at the heart 
 
 - **Pathao:** Joined through the AIM internship program and progressed into software engineering.
 - **Previously:** Flutter Developer at Join Venture AI (JVAI).
-- **Education:** Computer Science & Engineering, Rangpur Engineering College — Class of 2025.
-- **Competitive programming:** ICPC Asia Dhaka Regional participant; 1,500+ problems solved.
+- **Education:** Computer Science & Engineering, Rangpur Engineering College
+- **Competitive programming:** Multiple Times ICPC Asia Dhaka Regional participant
 
 </details>
 
@@ -133,8 +136,6 @@ I'm happy to connect about mobile development, product engineering, and interest
 
 <br />
 
-<sub>Built with curiosity. Improved through practice.</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=100&section=footer" alt="Teal wave footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=100&section=footer" alt="Error loading" />
 
 </div>
