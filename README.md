@@ -23,6 +23,17 @@ I build reliable mobile apps with Flutter, React Native, and Native Android turn
 </div>
 
 <br />
+<br />
+
+<a href="https://leetcode.com/u/sajidrec/">
+  <img
+    src="https://leetcard.jacoblin.cool/sajidrec?theme=dark&ext=heatmap"
+    alt="Sajid's LeetCode stats and activity"
+    width="100%"
+  />
+</a>
+
+<br />
 
 ## About me
 
